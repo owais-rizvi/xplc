@@ -44,8 +44,8 @@ Choose one of these AI providers:
 | Provider | Free Tier | Cost | Setup Link |
 |----------|-----------|------|------------|
 | **Gemini** ⭐ | Very generous | Free | [Get API Key](https://makersuite.google.com/app/apikey) |
-| **OpenAI** | $5 credit (expires) | ~$0.0005/query | [Get API Key](https://platform.openai.com/api-keys) |
-| **Claude** | None | ~$0.001/query | [Get API Key](https://console.anthropic.com/) |
+| **OpenAI** | $5 credit (expires) | Paid | [Get API Key](https://platform.openai.com/api-keys) |
+| **Claude** | None | Paid | [Get API Key](https://console.anthropic.com/) |
 
 > **Recommendation**: Start with Gemini for the best free experience!
 
